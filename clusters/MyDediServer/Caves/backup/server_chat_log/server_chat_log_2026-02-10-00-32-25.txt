@@ -1,0 +1,212 @@
+[00:04:07]: [Join Announcement] 别慌，总之先找时光机
+[00:05:11]: [Leave Announcement] 别慌，总之先找时光机
+[00:07:50]: [Join Announcement] Mona
+[00:09:05]: [Join Announcement] 别慌，总之先找时光机
+[00:14:51]: [Announcement] 月黑风高夜…
+[00:18:36]: [Death Announcement] Mona was killed by Merm. He became a spooky ghost!
+[00:21:57]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[00:28:17]: [Death Announcement] Mona was killed by Marotter. He became a spooky ghost!
+[00:28:55]: [Death Announcement] 别慌，总之先找时光机 was killed by 肉身消亡. She became a spooky ghost!
+[00:29:29]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[00:29:52]: [Resurrect Announcement] 别慌，总之先找时光机 was resurrected by Florid Postern.
+[00:33:04]: [Skin Announcement] Mona mysterybox_ice_4
+[00:34:36]: [Announcement] 狗将在第 6 天第 6 时间格到来，准备好狗牙陷阱了么？
+[00:43:19]: [Leave Announcement] Mona
+[00:43:31]: [Leave Announcement] 别慌，总之先找时光机
+[14:33:16]: [Join Announcement] Mona
+[14:37:40]: [Announcement] 防卡：本房间将于4分钟后清理！
+[14:38:31]: [Join Announcement] 别慌，总之先找时光机
+[14:39:27]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 龙蝇。
+[14:41:30]: [Announcement] 世界(地洞)清理中 —『只恐双溪舴艋舟，载不动许多愁。』
+[14:41:38]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[14:41:41]: [Announcement] 世界(地面)清理中 —『世事一场大梦，人生几度秋凉？』
+[14:42:00]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 猪王。
+[14:42:01]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 猪王。
+[14:42:04]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 猪王。
+[14:43:17]: [Announcement] 狗还有 58.56 秒到达战场
+[14:43:34]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机: wc
+[14:43:52]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机: ?
+[14:44:08]: [Announcement] 狗还有 7.56 秒后就要来了要来了
+[14:44:13]: [Announcement] 狗倒计时 3
+[14:44:14]: [Announcement] 狗倒计时 2
+[14:44:15]: [Announcement] 狗倒计时 1
+[14:44:16]: [Announcement] 狗来了
+[14:46:11]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机: home,here
+[14:46:23]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 干草叉。
+[14:47:43]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机: I need some carben
+[14:49:25]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机: more stone
+[15:05:15]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  (󰀍: 180/246) 50%…我靠，严重挂彩！
+[15:09:13]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 丹炉。
+[15:17:46]: [Announcement] 防卡：本房间将于4分钟后清理！
+[15:18:02]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 烹饪锅。
+[15:18:04]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 烹饪锅。
+[15:19:04]: [Announcement] 狗将在第 12 天第 11 时间格到来，准备好狗牙陷阱了么？
+[15:20:15]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 蔬果仓。
+[15:20:24]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 烹饪锅。
+[15:21:34]: [Announcement] 世界(地洞)清理中 —『直道相思了无益，未妨惆怅是清狂。』
+[15:21:47]: [Announcement] 世界(地面)清理中 —『手如柔荑，肤如凝脂，领如蝤蛴，齿如瓠犀。巧笑倩兮，美目盼兮。』
+[15:22:15]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 烹饪锅。
+[15:22:24]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 什锦干果，拥有 75% 新鲜度。
+[15:22:24]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 什锦干果，拥有 75% 新鲜度。
+[15:22:25]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 什锦干果，拥有 75% 新鲜度。
+[15:22:25]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 什锦干果，拥有 75% 新鲜度。
+[15:22:29]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:29]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:33]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:33]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:48]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:48]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:50]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:50]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:51]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:57]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:57]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:57]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:58]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:59]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:22:59]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:23:16]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:23:16]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  Mona 在我这。
+[15:23:29]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:24:28]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:29:45]: [Announcement] 今天有事发生哦，狗 将于 Dusk 来临
+[15:30:36]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 强心针。
+[15:30:37]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 强心针。
+[15:30:37]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 强心针。
+[15:30:37]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 强心针。
+[15:32:08]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 强心针。
+[15:32:10]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 强心针。
+[15:33:19]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 3 木炭。
+[15:33:20]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 3 木炭。
+[15:33:24]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 4 石砖。
+[15:33:46]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 3 木炭。
+[15:33:47]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 3 木炭。
+[15:34:06]: [Announcement] 狗还有 59.96 秒到达战场
+[15:34:21]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 3 木炭。
+[15:34:57]: [Announcement] 狗还有 8.96 秒后就要来了要来了
+[15:35:03]: [Announcement] 狗倒计时 3
+[15:35:04]: [Announcement] 狗倒计时 2
+[15:35:04]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:35:05]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:35:05]: [Announcement] 狗倒计时 1
+[15:35:06]: [Announcement] 狗来了
+[15:36:01]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 什锦干果。
+[15:36:11]: [Skin Announcement] Mona body_sweatervest_navy_ocean
+[15:57:52]: [Announcement] 防卡：本房间将于4分钟后清理！
+[16:01:39]: [Announcement] 世界(地洞)清理中 —『秦时明月汉时关，万里长征人未还。』
+[16:01:53]: [Announcement] 世界(地面)清理中 —『雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌?』
+[16:05:33]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 聚气丸。
+[16:05:34]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 聚气丸。
+[16:05:35]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我拥有 1 聚气丸。
+[16:28:23]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 赃物袋。
+[16:28:23]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 赃物袋。
+[16:28:55]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有1 怪皮弗娄牛。
+[16:32:57]: [Leave Announcement] Mona
+[16:34:18]: [Announcement] 狗将在第 22 天第 1 时间格到来，准备好狗牙陷阱了么？
+[17:11:47]: [Announcement] 防卡：本房间将于4分钟后清理！
+[17:12:09]: [Join Announcement] Mona
+[17:13:39]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有3 什锦干果。
+[17:13:39]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有3 什锦干果。
+[17:13:40]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有3 什锦干果。
+[17:14:00]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有3 什锦干果。
+[17:14:00]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有3 什锦干果。
+[17:14:34]: [Leave Announcement] 别慌，总之先找时光机
+[17:15:33]: [Announcement] 世界(地洞)清理中 —『人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。』
+[17:16:46]: [Leave Announcement] Mona
+[19:11:06]: [Join Announcement] Mona
+[19:11:29]: [Announcement] 世界(地面)清理中 —『天苍苍，野茫茫。风吹草低见牛羊。』
+[19:12:26]: [Join Announcement] 别慌，总之先找时光机
+[19:17:36]: [Skin Announcement] Mona legs_wurt_lunar
+[19:18:37]: [Announcement] 月黑风高夜…
+[19:20:03]: [Announcement] 狗还有 59.64 秒到达战场
+[19:20:40]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[19:20:55]: [Announcement] 狗还有 8.64 秒后就要来了要来了
+[19:21:01]: [Announcement] 狗倒计时 3
+[19:21:02]: [Announcement] 狗倒计时 2
+[19:21:03]: [Announcement] 狗倒计时 1
+[19:21:04]: [Announcement] 狗来了
+[19:28:43]: [Death Announcement] Mona was killed by Tallbird. He became a spooky ghost!
+[19:31:07]: [Resurrect Announcement] Mona was resurrected by Touch Stone.
+[19:48:47]: [Announcement] 防卡：本房间将于4分钟后清理！
+[19:52:32]: [Announcement] 世界(地洞)清理中 —『手如柔荑，肤如凝脂，领如蝤蛴，齿如瓠犀。巧笑倩兮，美目盼兮。』
+[19:52:48]: [Announcement] 世界(地面)清理中 —『剪不断，理还乱，是离愁。别是一般滋味在心头。』
+[20:05:29]: [Say] (KU_b2mWnCCI) 别慌，总之先找时光机:  我附近有4 腐烂物。
+[20:15:12]: [Announcement] 巨鹿将在第 30 天第 13 时间格到来，准备好战斗么？
+[20:15:45]: [Announcement] 狗将在第 30 天第 14 时间格到来，准备好狗牙陷阱了么？
+[20:15:58]: [Death Announcement] Mona was killed by Klaus. He became a spooky ghost!
+[20:18:06]: [Vote Announcement] rollback passed
+[20:18:10]: [Death Announcement] 别慌，总之先找时光机 was killed by Klaus. She became a spooky ghost!
+[20:20:38]: [Announcement] 巨鹿将在第 30 天第 13 时间格到来，准备好战斗么？
+[20:20:38]: [Announcement] 狗将在第 30 天第 14 时间格到来，准备好狗牙陷阱了么？
+[20:20:38]: [Vote Announcement] rollback passed
+[20:28:11]: [Announcement] 巨鹿将在第 30 天第 13 时间格到来，准备好战斗么？
+[20:28:47]: [Announcement] 狗将在第 30 天第 14 时间格到来，准备好狗牙陷阱了么？
+[20:37:26]: [Skin Announcement] Mona hand_webber_pirate
+[20:37:49]: [Announcement] 今天有事发生哦，巨鹿 将于 Night 来临
+[20:37:49]: [Announcement] 今天有事发生哦，狗 将于 Night 来临
+[20:43:13]: [Announcement] 巨鹿还有 59.30 秒到达战场，快离开家
+[20:43:49]: [Announcement] 狗还有 57.08 秒到达战场
+[20:44:04]: [Announcement] 巨鹿还有 8.30 秒后就要来了要来了
+[20:44:10]: [Announcement] 巨鹿倒计时 3
+[20:44:11]: [Announcement] 巨鹿倒计时 2
+[20:44:12]: [Announcement] 巨鹿倒计时 1
+[20:44:13]: [Announcement] 巨鹿来了
+[20:44:37]: [Announcement] 狗还有 9.08 秒后就要来了要来了
+[20:44:43]: [Announcement] 狗倒计时 3
+[20:44:44]: [Announcement] 狗倒计时 2
+[20:44:45]: [Announcement] 狗倒计时 1
+[20:44:46]: [Announcement] 狗来了
+[20:57:52]: [Announcement] 防卡：本房间将于4分钟后清理！
+[21:00:37]: [Death Announcement] Mona was killed by Greater Gestalt. He became a spooky ghost!
+[21:01:31]: [Death Announcement] 别慌，总之先找时光机 was killed by 肉身消亡. She became a spooky ghost!
+[21:01:36]: [Vote Announcement] rollback passed
+[21:04:07]: [Death Announcement] Mona was killed by Klaus. He became a spooky ghost!
+[21:04:14]: [Vote Announcement] rollback passed
+[21:13:18]: [Death Announcement] 别慌，总之先找时光机 was killed by Klaus. She became a spooky ghost!
+[21:13:30]: [Death Announcement] Mona was killed by Greater Gestalt. He became a spooky ghost!
+[21:13:37]: [Vote Announcement] rollback passed
+[21:21:44]: [Death Announcement] 别慌，总之先找时光机 was killed by Klaus. She became a spooky ghost!
+[21:21:57]: [Vote Announcement] rollback passed
+[21:59:16]: [Death Announcement] Mona was killed by Terrorbeak. He became a spooky ghost!
+[21:59:43]: [Announcement] 防卡：本房间将于4分钟后清理！
+[22:00:12]: [Leave Announcement] Mona
+[22:01:40]: [Join Announcement] Mona
+[22:03:07]: [Resurrect Announcement] Mona was resurrected by Life Giving Amulet.
+[22:03:45]: [Announcement] 世界(地面)清理中 —『南朝四百八十寺，多少楼台烟雨中。』
+[22:03:45]: [Skin Announcement] Mona legs_wormwood_rose
+[22:04:35]: [Announcement] 世界(地洞)清理中 —『送客时，秋江冷。商女琵琶断肠声。可知道司马和愁听。月又明，酒又酲，客乍醒。』
+[22:17:37]: [Announcement] 狗将在第 40 天第 12 时间格到来，准备好狗牙陷阱了么？
+[22:27:49]: [Announcement] 今天有事发生哦，狗 将于 Dusk 来临
+[22:32:40]: [Announcement] 狗还有 58.09 秒到达战场
+[22:33:31]: [Announcement] 狗还有 7.09 秒后就要来了要来了
+[22:33:35]: [Announcement] 狗倒计时 3
+[22:33:36]: [Announcement] 狗倒计时 2
+[22:33:37]: [Announcement] 狗倒计时 1
+[22:33:38]: [Announcement] 狗来了
+[22:39:50]: [Announcement] 防卡：本房间将于4分钟后清理！
+[22:42:19]: [Announcement] 月黑风高夜…
+[22:43:51]: [Announcement] 世界(地面)清理中 —『天苍苍，野茫茫。风吹草低见牛羊。』
+[22:44:39]: [Announcement] 世界(地洞)清理中 —『思君令人老，岁月忽已晚。』
+[23:00:33]: [Death Announcement] Mona was killed by 麒麟残魂. He became a spooky ghost!
+[23:02:43]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[23:03:36]: [Death Announcement] Mona was killed by 麒麟残魂. He became a spooky ghost!
+[23:04:26]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[23:12:20]: [Skin Announcement] Mona mysterybox_ice_4
+[23:19:56]: [Announcement] 防卡：本房间将于4分钟后清理！
+[23:20:11]: [Death Announcement] Mona was killed by Fire. He became a spooky ghost!
+[23:21:44]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[23:23:57]: [Announcement] 世界(地面)清理中 —『同是天涯沦落人，相逢何必曾相识!』
+[23:24:36]: [Announcement] 狗将在第 49 天第 2 时间格到来，准备好狗牙陷阱了么？
+[23:24:44]: [Announcement] 世界(地洞)清理中 —『赢，都变做了土；输，都变做了土。』
+[23:28:53]: [Death Announcement] Mona was killed by Spider Queen. He became a spooky ghost!
+[23:29:41]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[23:30:42]: [Death Announcement] Mona was killed by Darkness. He became a spooky ghost!
+[23:32:16]: [Resurrect Announcement] Mona was resurrected by Florid Postern.
+[23:39:38]: [Announcement] 狗还有 58.58 秒到达战场
+[23:40:00]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[23:40:30]: [Announcement] 狗还有 7.58 秒后就要来了要来了
+[23:40:34]: [Announcement] 狗倒计时 3
+[23:40:35]: [Announcement] 狗倒计时 2
+[23:40:36]: [Announcement] 狗倒计时 1
+[23:40:37]: [Announcement] 狗来了
+[00:00:02]: [Announcement] 防卡：本房间将于4分钟后清理！
