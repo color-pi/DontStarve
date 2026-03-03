@@ -1,0 +1,236 @@
+[00:13:03]: [Join Announcement] Mona
+[00:16:18]: [Join Announcement] 别慌，总之先找时光机
+[00:30:34]: [Leave Announcement] Mona
+[00:36:58]: [Join Announcement] Mona
+[00:43:17]: [Skin Announcement] Mona body_polo_yellow_goldenrod
+[00:50:06]: [Announcement] 洞穴蠕虫将在第 203 天第 1 时间格到来，要不，跑？
+[00:51:37]: [Announcement] 防卡：本房间将于4分钟后清理！
+[00:55:27]: [Announcement] 世界(地洞)清理中 —『昨夜西风凋碧树，独上高楼，望尽天涯路。』
+[00:55:37]: [Announcement] 世界(地面)清理中 —『平生不会相思，才会相思，便害相思。』
+[00:55:39]: [Announcement] 月黑风高夜…
+[01:04:30]: [Announcement] 蚁狮地震将会在第 204 天第 14 时间格发生，快去献祭吧或者干掉它？
+[01:05:08]: [Announcement] 洞穴蠕虫还有 59.11 秒到达战场
+[01:05:41]: [Announcement] 今天有事发生哦，洞穴蠕虫 将于 Daytime 来临
+[01:06:00]: [Announcement] 洞穴蠕虫还有 7.91 秒后就要来了要来了
+[01:06:05]: [Announcement] 洞穴蠕虫倒计时 3
+[01:06:06]: [Announcement] 洞穴蠕虫倒计时 2
+[01:06:07]: [Announcement] 洞穴蠕虫倒计时 1
+[01:06:08]: [Announcement] 洞穴蠕虫来了
+[01:13:44]: [Announcement] 今天有事发生哦，蚁狮地震 将于 Night 来临
+[01:18:43]: [Skin Announcement] 别慌，总之先找时光机 body_polo_green_pistachio
+[01:19:32]: [Announcement] 蚁狮地震还有 59.20 秒来了，快离开家
+[01:20:23]: [Announcement] 蚁狮地震还有 8.20 秒后就要来了要来了
+[01:20:28]: [Announcement] 蚁狮地震倒计时 3
+[01:20:29]: [Announcement] 蚁狮地震倒计时 2
+[01:20:30]: [Announcement] 蚁狮地震倒计时 1
+[01:20:31]: [Announcement] 蚁狮地震了
+[01:31:29]: [Announcement] 蚁狮地震将会在第 208 天第 4 时间格发生，快去献祭吧或者干掉它？
+[01:31:44]: [Announcement] 防卡：本房间将于4分钟后清理！
+[01:35:32]: [Announcement] 世界(地洞)清理中 —『花自飘零水自流。一种相思，两处闲愁。』
+[01:35:44]: [Announcement] 世界(地面)清理中 —『二十四桥明月夜，玉人何处教吹箫?』
+[01:43:17]: [Skin Announcement] Mona feet_loafers_brown_beaver
+[01:45:49]: [Announcement] 今天有事发生哦，蚁狮地震 将于 Daytime 来临
+[01:46:31]: [Announcement] 蚁狮地震还有 58.00 秒来了，快离开家
+[01:47:19]: [Announcement] 蚁狮地震还有 10.00 秒后就要来了要来了
+[01:47:26]: [Announcement] 蚁狮地震倒计时 3
+[01:47:27]: [Announcement] 蚁狮地震倒计时 2
+[01:47:28]: [Announcement] 蚁狮地震倒计时 1
+[01:47:29]: [Announcement] 蚁狮地震了
+[01:53:01]: [Announcement] 蚁狮地震将会在第 210 天第 15 时间格发生，快去献祭吧或者干掉它？
+[02:01:52]: [Announcement] 今天有事发生哦，蚁狮地震 将于 Night 来临
+[02:06:24]: [Death Announcement] Mona was killed by Rocks. He became a spooky ghost!
+[02:06:29]: [Resurrect Announcement] Mona was resurrected by Life Giving Amulet.
+[02:08:04]: [Announcement] 蚁狮地震还有 58.24 秒来了，快离开家
+[02:08:55]: [Announcement] 蚁狮地震还有 7.24 秒后就要来了要来了
+[02:08:59]: [Announcement] 蚁狮地震倒计时 3
+[02:09:00]: [Announcement] 蚁狮地震倒计时 2
+[02:09:01]: [Announcement] 蚁狮地震倒计时 1
+[02:09:02]: [Announcement] 蚁狮地震了
+[02:10:29]: [Death Announcement] Mona was killed by Shenanigans. He became a spooky ghost!
+[02:10:34]: [Resurrect Announcement] Mona was resurrected by Life Giving Amulet.
+[02:10:44]: [Death Announcement] Mona was killed by Boomshroom. He became a spooky ghost!
+[02:11:09]: [Resurrect Announcement] Mona was resurrected by Life Giving Amulet.
+[02:11:16]: [Death Announcement] 别慌，总之先找时光机 was killed by Shenanigans. She became a spooky ghost!
+[02:11:50]: [Announcement] 防卡：本房间将于4分钟后清理！
+[02:15:37]: [Announcement] 世界(地洞)清理中 —『危楼高百尺，手可摘星辰。』
+[02:15:50]: [Announcement] 世界(地面)清理中 —『东风夜放花千树，更吹落、星如雨。』
+[02:16:07]: [Resurrect Announcement] 别慌，总之先找时光机 was resurrected by Mona.
+[02:19:11]: [Leave Announcement] 别慌，总之先找时光机
+[02:20:00]: [Leave Announcement] Mona
+[14:51:59]: [Join Announcement] Mona
+[15:05:34]: [Announcement] 洞穴蠕虫将在第 214 天第 12 时间格到来，要不，跑？
+[15:13:22]: [Join Announcement] 别慌，总之先找时光机
+[15:20:43]: [Leave Announcement] 别慌，总之先找时光机
+[15:22:16]: [Join Announcement] 别慌，总之先找时光机
+[15:23:03]: [Skin Announcement] Mona legs_shorts_black_scribble
+[15:23:22]: [Announcement] 熊大将在第 216 天第 1 时间格到来，准备好树场么？
+[15:28:34]: [Skin Announcement] 别慌，总之先找时光机 hand_shortgloves_purple_violet
+[15:34:22]: [Leave Announcement] 别慌，总之先找时光机
+[15:36:53]: [Join Announcement] 别慌，总之先找时光机
+[15:37:02]: [Announcement] 熊大将在第 216 天第 5 时间格到来，准备好树场么？
+[15:39:57]: [Announcement] 今天有事发生哦，熊大 将于 Daytime 来临
+[15:41:06]: [Announcement] 熊大还有 57.17 秒到达战场，快去树场
+[15:41:54]: [Announcement] 防卡：本房间将于4分钟后清理！
+[15:41:54]: [Announcement] 熊大还有 9.17 秒后就要来了要来了
+[15:42:01]: [Announcement] 熊大倒计时 3
+[15:42:02]: [Announcement] 熊大倒计时 2
+[15:42:03]: [Announcement] 熊大倒计时 1
+[15:42:04]: [Announcement] 熊大来了
+[15:45:38]: [Announcement] 世界(地洞)清理中 —『富贵必从勤苦得，男儿须读五车书。』
+[15:45:54]: [Announcement] 世界(地面)清理中 —『独坐幽篁里，弹琴复长啸。深林人不知，明月来相照。』
+[16:00:36]: [Leave Announcement] 别慌，总之先找时光机
+[16:01:55]: [Join Announcement] 别慌，总之先找时光机
+[16:02:58]: [Announcement] 狗将在第 220 天第 14 时间格到来，准备好狗牙陷阱了么？
+[16:12:04]: [Announcement] 今天有事发生哦，狗 将于 Dusk 来临
+[16:18:01]: [Announcement] 狗还有 57.18 秒到达战场
+[16:18:49]: [Announcement] 狗还有 9.18 秒后就要来了要来了
+[16:18:55]: [Announcement] 狗倒计时 3
+[16:18:56]: [Announcement] 狗倒计时 2
+[16:18:57]: [Announcement] 狗倒计时 1
+[16:18:58]: [Announcement] 狗来了
+[16:20:17]: [Death Announcement] 别慌，总之先找时光机 was killed by 肉身消亡. She became a spooky ghost!
+[16:21:35]: [Resurrect Announcement] 别慌，总之先找时光机 was resurrected by Touch Stone.
+[16:22:02]: [Announcement] 防卡：本房间将于4分钟后清理！
+[16:25:44]: [Announcement] 世界(地洞)清理中 —『危楼高百尺，手可摘星辰。』
+[16:26:02]: [Announcement] 世界(地面)清理中 —『天阶夜色凉如水，卧看牵牛织女星。』
+[16:27:04]: [Announcement] 月黑风高夜…
+[16:29:04]: [Skin Announcement] Mona legs_shorts_red_firehound
+[16:39:34]: [Skin Announcement] 别慌，总之先找时光机 feet_workboot_tan_clay
+[16:53:19]: [Leave Announcement] 别慌，总之先找时光机
+[16:54:53]: [Join Announcement] 别慌，总之先找时光机
+[16:55:35]: [Leave Announcement] 别慌，总之先找时光机
+[16:56:59]: [Join Announcement] 别慌，总之先找时光机
+[17:03:06]: [Announcement] 防卡：本房间将于4分钟后清理！
+[17:06:46]: [Announcement] 世界(地洞)清理中 —『雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌?』
+[17:07:06]: [Announcement] 世界(地面)清理中 —『人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。』
+[17:29:04]: [Skin Announcement] Mona legs_warly_rose
+[17:41:16]: [Announcement] 克劳斯的赃物袋将在第 232 天第 1 时间格刷新，准备好鹿角么？
+[17:43:13]: [Announcement] 防卡：本房间将于4分钟后清理！
+[17:44:54]: [Leave Announcement] 别慌，总之先找时光机
+[17:46:55]: [Join Announcement] 别慌，总之先找时光机
+[17:49:22]: [Announcement] 世界(地洞)清理中 —『入我相思门，知我相思苦。』
+[17:49:44]: [Announcement] 世界(地面)清理中 —『君当作磐石，妾当作蒲苇。蒲苇纫如丝，磐石无转移。』
+[17:50:11]: [Announcement] 巨鹿将在第 233 天第 13 时间格到来，准备好战斗么？
+[17:51:02]: [Announcement] 克劳斯的赃物袋还有 57.36 秒刷新了，快去找找吧
+[17:51:48]: [Announcement] 今天有事发生哦，克劳斯的赃物袋 将于 Daytime 来临
+[17:51:51]: [Announcement] 克劳斯的赃物袋还有 9.36 秒后就要刷新了
+[17:51:57]: [Announcement] 克劳斯的赃物袋倒计时 3
+[17:51:58]: [Announcement] 克劳斯的赃物袋倒计时 2
+[17:51:59]: [Announcement] 克劳斯的赃物袋倒计时 1
+[17:52:00]: [Announcement] 克劳斯的赃物袋刷新了
+[17:59:49]: [Announcement] 今天有事发生哦，巨鹿 将于 Night 来临
+[18:06:22]: [Announcement] 巨鹿还有 57.70 秒到达战场，快离开家
+[18:06:22]: [Announcement] 今天有事发生哦，巨鹿 将于 Night 来临
+[18:06:25]: [Announcement] 巨鹿将在第 233 天第 16 时间格到来，准备好战斗么？
+[18:07:10]: [Announcement] 巨鹿还有 9.70 秒后就要来了要来了
+[18:07:17]: [Announcement] 巨鹿倒计时 3
+[18:07:18]: [Announcement] 巨鹿倒计时 2
+[18:07:19]: [Announcement] 巨鹿倒计时 1
+[18:07:20]: [Announcement] 巨鹿来了
+[18:12:15]: [Skin Announcement] 别慌，总之先找时光机 body_buttons_purple_violet
+[18:12:57]: [Announcement] 狗将在第 236 天第 11 时间格到来，准备好狗牙陷阱了么？
+[18:13:24]: [Announcement] You feel an evil presence watching you...
+[18:13:34]: [Announcement] The Eye of Terror turns its gaze toward 别慌，总之先找时光机
+[18:23:53]: [Announcement] 今天有事发生哦，狗 将于 Night 来临
+[18:25:50]: [Announcement] 防卡：本房间将于4分钟后清理！
+[18:27:59]: [Announcement] 狗还有 59.80 秒到达战场
+[18:28:50]: [Announcement] 狗还有 8.80 秒后就要来了要来了
+[18:28:56]: [Announcement] 狗倒计时 3
+[18:28:57]: [Announcement] 狗倒计时 2
+[18:28:58]: [Announcement] 狗倒计时 1
+[18:28:59]: [Announcement] 狗来了
+[18:29:26]: [Announcement] 世界(地洞)清理中 —『平生不会相思，才会相思，便害相思。』
+[18:29:50]: [Announcement] 世界(地面)清理中 —『两岸猿声啼不住，轻舟已过万重山。』
+[18:47:26]: [Leave Announcement] 别慌，总之先找时光机
+[18:48:43]: [Join Announcement] 别慌，总之先找时光机
+[18:53:05]: [Skin Announcement] Mona hand_beltedgloves_orange_sienna
+[19:05:57]: [Announcement] 防卡：本房间将于4分钟后清理！
+[19:08:58]: [Announcement] 月黑风高夜…
+[19:09:31]: [Announcement] 世界(地洞)清理中 —『一骑红尘妃子笑，无人知是荔枝来。』
+[19:09:57]: [Announcement] 世界(地面)清理中 —『少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。』
+[19:11:57]: [Death Announcement] 别慌，总之先找时光机 was killed by 肉身消亡. She became a spooky ghost!
+[19:12:11]: [Resurrect Announcement] 别慌，总之先找时光机 was resurrected by Life Giving Amulet.
+[19:21:41]: [Announcement] 今天有事发生哦，洞穴蠕虫 将于 Dusk 来临
+[19:23:11]: [Leave Announcement] 别慌，总之先找时光机
+[19:23:28]: [Leave Announcement] Mona
+[22:14:24]: [Announcement] 今天有事发生哦，洞穴蠕虫 将于 Dusk 来临
+[22:15:00]: [Join Announcement] 别慌，总之先找时光机
+[22:15:07]: [Announcement] 今天有事发生哦，洞穴蠕虫 将于 Dusk 来临
+[22:15:09]: [Announcement] 洞穴蠕虫还有 58.65 秒到达战场
+[22:15:36]: [Join Announcement] MKoT
+[22:16:00]: [Announcement] 洞穴蠕虫还有 7.65 秒后就要来了要来了
+[22:16:05]: [Announcement] 洞穴蠕虫倒计时 3
+[22:16:06]: [Announcement] 洞穴蠕虫倒计时 2
+[22:16:07]: [Announcement] 洞穴蠕虫倒计时 1
+[22:16:08]: [Announcement] 洞穴蠕虫来了
+[22:17:33]: [Death Announcement] 别慌，总之先找时光机 was killed by 肉身消亡. She became a spooky ghost!
+[22:19:36]: [Resurrect Announcement] 别慌，总之先找时光机 was resurrected by MKoT.
+[22:23:17]: [Skin Announcement] 别慌，总之先找时光机 body_buttons_blue_sapphire
+[22:36:59]: [Announcement] 防卡：本房间将于4分钟后清理！
+[22:40:32]: [Announcement] 世界(地洞)清理中 —『对酒当歌，人生几何！譬如朝露，去日苦多。』
+[22:40:59]: [Announcement] 世界(地面)清理中 —『春风得意马蹄疾，一日看尽长安花』
+[23:17:06]: [Announcement] 防卡：本房间将于4分钟后清理！
+[23:20:37]: [Announcement] 世界(地洞)清理中 —『长相思，长相思。欲把相思说似谁，浅情人不知。』
+[23:21:06]: [Announcement] 世界(地面)清理中 —『思君令人老，岁月忽已晚。』
+[23:30:31]: [Leave Announcement] MKoT
+[23:32:08]: [Join Announcement] MKoT
+[23:48:02]: [Announcement] 狗将在第 257 天第 2 时间格到来，准备好狗牙陷阱了么？
+[23:57:12]: [Announcement] 防卡：本房间将于4分钟后清理！
+[00:00:41]: [Announcement] 世界(地洞)清理中 —『无边落木萧萧下，不尽长江滚滚来。』
+[00:01:12]: [Announcement] 世界(地面)清理中 —『黛蛾长敛，任是春风吹不展。困倚危楼，过尽飞鸿字字愁。』
+[00:03:04]: [Announcement] 狗还有 58.63 秒到达战场
+[00:03:17]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[00:03:56]: [Announcement] 狗还有 7.63 秒后就要来了要来了
+[00:04:00]: [Announcement] 狗倒计时 3
+[00:04:01]: [Announcement] 狗倒计时 2
+[00:04:02]: [Announcement] 狗倒计时 1
+[00:04:03]: [Announcement] 狗来了
+[00:37:23]: [Announcement] 防卡：本房间将于4分钟后清理！
+[00:40:46]: [Announcement] 世界(地洞)清理中 —『月上柳梢头，人约黄昏后。』
+[00:41:23]: [Announcement] 世界(地面)清理中 —『便作春江都是泪，流不尽，许多愁。』
+[00:41:54]: [Announcement] 月黑风高夜…
+[00:58:47]: [Leave Announcement] MKoT
+[01:02:25]: [Join Announcement] MKoT
+[01:17:30]: [Announcement] 防卡：本房间将于4分钟后清理！
+[01:20:51]: [Announcement] 世界(地洞)清理中 —『有匪君子，如切如磋，如琢如磨。』
+[01:21:30]: [Announcement] 世界(地面)清理中 —『少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。』
+[01:26:03]: [Vote Announcement] rollback passed
+[01:28:03]: [Vote Announcement] rollback passed
+[01:29:51]: [Join Announcement] MKoT
+[02:04:20]: [Announcement] 狗将在第 272 天第 5 时间格到来，准备好狗牙陷阱了么？
+[02:05:50]: [Announcement] 防卡：本房间将于4分钟后清理！
+[02:09:51]: [Announcement] 世界(地面)清理中 —『风一更，雪一更，聒碎乡心梦不成，故园无此声。』
+[02:10:50]: [Announcement] 世界(地洞)清理中 —『无情不似多情苦，一寸还成千万缕。天涯地角有穷时，只有相思无尽处。』
+[02:17:53]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[02:19:23]: [Announcement] 狗还有 57.34 秒到达战场
+[02:20:11]: [Announcement] 狗还有 9.34 秒后就要来了要来了
+[02:20:17]: [Announcement] 狗倒计时 3
+[02:20:18]: [Announcement] 狗倒计时 2
+[02:20:19]: [Announcement] 狗倒计时 1
+[02:20:20]: [Announcement] 狗来了
+[02:25:30]: [Death Announcement] MKoT was killed by MKoT. He became a spooky ghost!
+[02:26:38]: [Resurrect Announcement] MKoT was resurrected by Life Giving Amulet.
+[02:41:32]: [Leave Announcement] MKoT
+[02:42:14]: [Leave Announcement] 别慌，总之先找时光机
+[02:59:41]: [Join Announcement] 别慌，总之先找时光机
+[03:03:33]: [Announcement] 防卡：本房间将于4分钟后清理！
+[03:07:34]: [Announcement] 世界(地面)清理中 —『何须浅碧深红色，自是花中第一流。』
+[03:08:31]: [Announcement] 世界(地洞)清理中 —『莫道不销魂，帘卷西风，人比黄花瘦。』
+[03:43:48]: [Announcement] 防卡：本房间将于4分钟后清理！
+[03:47:50]: [Announcement] 世界(地面)清理中 —『手如柔荑，肤如凝脂，领如蝤蛴，齿如瓠犀。巧笑倩兮，美目盼兮。』
+[03:48:54]: [Announcement] 世界(地洞)清理中 —『少无适俗韵，性本爱丘山。』
+[03:54:42]: [Announcement] 月黑风高夜…
+[04:41:40]: [Announcement] 防卡：本房间将于4分钟后清理！
+[04:45:41]: [Announcement] 世界(地面)清理中 —『独抱浓愁无好梦，夜阑犹剪灯花弄。』
+[04:46:34]: [Announcement] 世界(地洞)清理中 —『独坐幽篁里，弹琴复长啸。深林人不知，明月来相照。』
+[04:56:15]: [Announcement] 狗将在第 289 天第 5 时间格到来，准备好狗牙陷阱了么？
+[05:10:28]: [Announcement] 今天有事发生哦，狗 将于 Daytime 来临
+[05:11:49]: [Announcement] 狗还有 57.86 秒到达战场
+[05:12:37]: [Announcement] 狗还有 9.86 秒后就要来了要来了
+[05:12:44]: [Announcement] 狗倒计时 3
+[05:12:45]: [Announcement] 狗倒计时 2
+[05:12:46]: [Announcement] 狗倒计时 1
+[05:12:47]: [Announcement] 狗来了
+[05:22:30]: [Announcement] 防卡：本房间将于4分钟后清理！
+[05:23:12]: [Leave Announcement] 别慌，总之先找时光机
+[00:28:33]: [Join Announcement] 别慌，总之先找时光机
